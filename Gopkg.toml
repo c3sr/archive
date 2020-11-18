@@ -24,43 +24,6 @@
 #   go-tests = true
 #   unused-packages = true
 
-
-[[constraint]]
-  branch = "master"
-  name = "github.com/GeertJohan/go-sourcepath"
-
-[[constraint]]
-  name = "github.com/Unknwon/com"
-  version = "1.0.0"
-
-[[constraint]]
-  branch = "master"
-  name = "github.com/docker/docker"
-
-[[constraint]]
-  name = "github.com/k0kubun/pp"
-  version = "^3.0.1"
-
-[[constraint]]
-  branch = "master"
-  name = "github.com/rai-project/config"
-
-[[constraint]]
-  branch = "master"
-  name = "github.com/rai-project/logger"
-
-[[constraint]]
-  branch = "master"
-  name = "github.com/rai-project/vipertags"
-
-[[constraint]]
-  name = "github.com/sirupsen/logrus"
-  version = "1.4.1"
-
-[[constraint]]
-  name = "github.com/stretchr/testify"
-  version = "1.2.2"
-
 [prune]
   go-tests = true
   unused-packages = true
