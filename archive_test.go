@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/GeertJohan/go-sourcepath"
-	"github.com/Unknwon/com"
+	"github.com/unknwon/com"
 	"github.com/c3sr/config"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"
